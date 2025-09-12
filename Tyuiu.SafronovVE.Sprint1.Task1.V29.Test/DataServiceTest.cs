@@ -15,7 +15,6 @@ namespace Tyuiu.SafronovVE.Sprint1.Task1.V29.Test
 
             var res = ds.Calculate(a, b, c);
             Assert.AreEqual(1, res);
-
         }
     }
 }
