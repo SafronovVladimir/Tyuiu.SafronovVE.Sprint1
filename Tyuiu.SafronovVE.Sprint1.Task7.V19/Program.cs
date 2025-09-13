@@ -31,7 +31,7 @@ internal class Program
 
         double x;
 
-        Console.WriteLine("Введите X: ");
+        Console.WriteLine("Введите значение X: ");
         x = Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("***************************************************************************");
