@@ -16,7 +16,7 @@ namespace Tyuiu.SafronovVE.Sprint1.Task6.V4.Lib
             {
                 list.Add(word);
             }
-            string res = string.Join(", ", list.ToArray());
+            string res = string.Join(" ", list.ToArray());
             return res;
         }
     }
