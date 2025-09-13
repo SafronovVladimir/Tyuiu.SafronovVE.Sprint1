@@ -17,7 +17,7 @@ internal class Program
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
         Console.WriteLine("* Написать программу, которая решает следующую задачу:                    *");
         Console.WriteLine("* пользователь вводит текст. Напечатать все слова,                        *");
-        Console.WriteLine("* содержащие удвоенное н                                                  *");
+        Console.WriteLine("* содержащие удвоенное н (\"нн\")                                           *");
         Console.WriteLine("*                                                                         *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
